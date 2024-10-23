@@ -1,1 +1,2 @@
+Remote change to file.txt
 Another remote change
